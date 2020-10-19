@@ -1,0 +1,10 @@
+@import './settings';
+
+@font-face {
+  font-family: wlFont; // brightside demo
+  src: url('./BrightsideDemoRough-oL4a.ttf'); /* IE9 Compat Modes */  
+}
+
+.bg-soft-purple {
+  background-color: rgba($color: $purple, $alpha: 0.5);
+}
